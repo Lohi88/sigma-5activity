@@ -1,2 +1,2 @@
 # sigma-5activity
-Demo for Git &amp; Git Hub
+Demo for Git &amp; Git Hub.
